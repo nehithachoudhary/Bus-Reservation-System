@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698736608 source:d:\csp\brs\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
